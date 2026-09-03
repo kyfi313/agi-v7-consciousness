@@ -1,4 +1,4 @@
-# AGI v7.0 — Нейробиологическая архитектура искусственного сознания
+# концептуальный прототип AGI v7.0 — Нейробиологическая архитектура искусственного сознания
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 
